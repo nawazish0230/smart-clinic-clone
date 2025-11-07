@@ -1,0 +1,1 @@
+# Smart Clinic - Healthcare Management Platform
