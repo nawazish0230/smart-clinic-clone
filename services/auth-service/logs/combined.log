@@ -1,0 +1,12 @@
+2025-11-17 08:18:42 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-11-17 08:20:56 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-11-17 08:22:14 [auth-service] [31merror[39m: [31mError: refereshToken is not defined[39m
+2025-11-17 08:25:06 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-11-17 08:25:10 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-11-17 08:25:16 [auth-service] [31merror[39m: [31mError: User with this email already exists[39m
+2025-11-17 08:25:37 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-11-17 08:25:42 [auth-service] [32minfo[39m: [32mNew user registered: john@gmail.com[39m
+2025-11-17 08:26:57 [auth-service] [31merror[39m: [31mError: User with this email already exists[39m
+2025-11-17 08:27:40 [auth-service] [32minfo[39m: [32mUser logged in: john@gmail.com[39m
+2025-11-17 08:28:06 [auth-service] [31merror[39m: [31mError: Invalid email/password[39m
+2025-11-17 08:30:35 [auth-service] [32minfo[39m: [32mAccess token refreshed for user: john@gmail.com[39m

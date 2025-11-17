@@ -1,0 +1,104 @@
+const jwt = require('jsonwebtoken');
+const config = require('../config');
+
+
+/**
+ * Generate JWT access token
+ * @Param {Object} payload - The payload (userId, email, roles)
+ * @Return {String} - JWT access token
+ */
+const generateAccessToken = (payload) => {
+    const tokenPayload = {
+        userId: payload.userId,
+        email: payload.email,
+        roles: payload.roles
+    }
+
+    return jwt.sign(tokenPayload, config.jwtSecret, {
+        expiresIn: config.jwtExpiresIn,
+        issuer: config.serviceName
+    });
+}
+
+
+
+/**
+ * Generate JWT refresh token
+ * @Param {Object} payload - The payload (userId)
+ * @return {String} - JWT refresh token
+ */
+const generateRefreshToken = (payload) => {
+    const tokenPayload = {
+        userId: payload.userId
+    }
+    return jwt.sign(tokenPayload, config.jwtRefershSecret, {
+        expiresIn: config.jwtRefreshExpiresIn,
+        issuer: config.serviceName
+    })
+}
+
+
+
+/**
+ * Verify JWT token
+ * @Param {String} token - JWT token
+ * @Return {Object} - Decoded token payload
+ */
+const verifyAccessToken = (token) => {
+    try{
+        return jwt.verify(token, config.jwtSecret);
+    }catch(error){
+        if(error.name === 'TokenExpiredError'){
+            throw new Error('Refresh token has expired');
+        }else if(error.name === 'JsonWebTokenError'){
+            throw new Error('Invalid refresh token');
+        }
+        throw error;
+    }
+}
+
+
+
+/**
+ * Verify JWT refresh token
+ * @Param {String} token - JWT referesh token to verify
+ * @Return {Object} - Decoded token payload
+ */
+const verifyRefreshToken = (token) => {
+    try{
+        return jwt.verify(token, config.jwtRefershSecret);
+    }catch(error){
+        if(error.name === 'TokenExpiredError'){
+            throw new Error('Refresh token has expired');
+        }else if(error.name === 'JsonWebTokenError'){
+            throw new Error('Invalid refresh token');
+        }
+        throw error;
+    }
+}
+
+
+/**
+ * Extract token from Authorization header
+ * @param {String} authHeader - Authorization header value
+ * @return {String | null} - Extracted token from header or null
+ */
+const extractTokenFromHeader = (authHeader) => {
+    if(!authHeader) return null;
+
+    const parts = authHeader.split(' ');
+    if(parts.length !==2 || parts[0] !== 'Bearer'){
+        return null;
+    }
+
+    return parts[1];
+}
+
+
+module.exports = {
+    generateAccessToken,
+    generateRefreshToken,
+    verifyAccessToken,
+    verifyRefreshToken,
+    extractTokenFromHeader
+}

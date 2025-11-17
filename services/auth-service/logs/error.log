@@ -1,0 +1,4 @@
+2025-11-17 08:22:14 [auth-service] [31merror[39m: [31mError: refereshToken is not defined[39m
+2025-11-17 08:25:16 [auth-service] [31merror[39m: [31mError: User with this email already exists[39m
+2025-11-17 08:26:57 [auth-service] [31merror[39m: [31mError: User with this email already exists[39m
+2025-11-17 08:28:06 [auth-service] [31merror[39m: [31mError: Invalid email/password[39m
