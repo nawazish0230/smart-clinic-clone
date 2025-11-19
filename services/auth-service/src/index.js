@@ -1,6 +1,7 @@
 // import module
 const express = require('express');
-
+const swaggerUI = require('swagger-ui-express');
+const swaggerSepc = require('./config/swagger');
 const config = require('./config');
 const logger = require('./utils/logger');
 const { errorHandler, notFoundHandler } = require('./middlewares/error.middleware');
@@ -15,6 +16,14 @@ const app = express();
 // middlewares
 app.use(express.json()); 
 app.use(express.urlencoded({ extended: true })); 
+
+// Swagger UI
+app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(
+    swaggerSepc, {
+        customCSS: '.swagger-ui .topbar { display: none }',
+        customSiteTitle: `${config.serviceName} API Docs`,
+    }
+));
 
 // import auth routes
 const authRoutes = require('./routes/auth.route');

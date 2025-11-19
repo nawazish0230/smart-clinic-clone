@@ -77,7 +77,7 @@ const refreshToken = async (req, res, next) => {
 
 const logout = async (req, res, next) => {
   try {
-    const userId = req.user.id;
+    const userId = req.user.userId;
     await authService.logout(userId); 
     res.status(200).json({
       success: true,
@@ -93,7 +93,7 @@ const logout = async (req, res, next) => {
 
 const getProfile = async (req, res, next) => {  
   try {
-    const userId = req.user.id;
+    const userId = req.user.userId;
     const profile = await authService.getProfile(userId);
     res.status(200).json({
       success: true,
