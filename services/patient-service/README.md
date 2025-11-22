@@ -115,3 +115,46 @@ Create `src/services/patient.service.js`:
 - Implement `addMediacation()` - Add medication
 
 -----
+
+
+### Phase 4: REST API Implementation
+
+#### Step 4.1: Create Middleware
+- `src/middlewares/auth.middleware.js` - JWT authentication middleware
+- `src/middlewares/rbac.middleware.js` - Role-based access control
+- `src/middlewares/validator.middleware.js` - Input validation
+- `src/middlewares/error.middleware.js` - Error Handling middleware
+
+#### Step 4.2: Create Patient Controller
+Create `src/controllers/patient.controller.js`:
+- Implement controller methods that call service layer
+- Handle request/response formatting
+- Apply error handling
+
+
+#### Step 4.3: Create Routes
+Create `src/routes/patient.route.js`:
+- Define REST endpoints
+- Apply authentication middleware
+- Applt RBAC middleware
+- Apply validation middleware
+- Connect routes to controller
+
+Create `src/routes/health.routes.js`
+
+- Health check endpoint
+- Readiness check endpoint
+
+
+#### Step 4.4: Setup Express App
+Create `src/index.js`
+
+- Initialize Express app
+- Configure middleware (helmet, cors, body-parser)
+- Setup Swagger UI
+- Register routes
+- Setup error handling
+- Connect to database
+- Start server
+
+----

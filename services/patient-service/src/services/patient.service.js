@@ -45,19 +45,42 @@ const createPatient = async (patientData) => {
  * @param {String} patientId - The ID of the patient to retrieve.
  * @returns {Object|null} Patient object if found, otherwise null.
  */
+const getPatientById = async (patientId) => {
+    const patient = await Patient.findById(patientId);
+    if(!patient){
+        throw new NotFoundError('Patient not found');
+    }
+
+    return patient;
+}
 
 /**
  * Get Patients By User Id
  * @param {String} userId - User Id from the auth service
  * @returns {Object} Patient Object
  */
+const getPatientByUserId = async (userId) => {
+    const patient = await Patient.findByUserId(userId);
+    if(!patient){
+        throw new NotFoundError('Patient not found');
+    }
+
+    return patient;
+}
 
 /**
  * Get Patient By email
  * @param {String} email - The email of the patient to retrieve.
  * @returns {Object|null} Patient object if found, otherwise null.
  */
+const getPatientByEmail = async (email) => {
+    const patient = await Patient.findByEmail(email.toLowerCase());
+    if(!patient){
+        throw new NotFoundError('Patient not found');
+    }
 
+    return patient;
+}
 
 /**
  * Get All Patients with Pagination and filters

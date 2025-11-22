@@ -1,7 +1,7 @@
 {
   "name": "patient-service",
   "version": "1.0.0",
-  "description": "- Patient CRUD Operation\r - Medical history tracking\r - Current medication tracking\r - Emergency contact information\r - Insurance information management\r - MongoDB database integration\r - Integration with auth service for authentication\r - Role-based access control (RBAC)\r - Input validation\r - Error Handling\r - Request Logger\r - SWagger",
+  "description": "- Patient CRUD Operation\r - Medical history tracking\r - Current medication tracking\r - Emergency contact information\r - Insurance information management\r - MongoDB database integration\r - Integration with auth service for authentication\r - Role-based access control (RBAC)\r - Input validation\r - Error Handling\r - Request Logger\r - SWagger",  
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
