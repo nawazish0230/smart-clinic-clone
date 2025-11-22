@@ -92,3 +92,26 @@ Create `src/models/Patient.js`:
 
 
 ----
+
+### Phase 3: Core Service Layer
+
+#### Step 3.1: Create Utlity Functions 
+- `src/utils/logger.js` - Winston logger configuration
+- `src/utils/errors.js` - Custom error classes (ValidationError, NotFoundError etc)
+- `src/utils/auth.js` - Auth Service integration for token validation
+
+
+#### 3.2: Create Patient Service
+Create `src/services/patient.service.js`:
+
+- Implement `createPatient()` - Create new patient
+- Implement `getPatientById` - Get Patient by ID
+- Implement `getPatientByUserId` - Get Patient by User ID
+- Implement `getAllPatients` - List patients with pagination and filters
+- Implement `updatePatient` - Update Patient information
+- Implement `deletePatient` - Soft delete patient
+- Implement `addMediaclHistory()` - Add Medical history item
+- Implement `addAllergy()` - Add Allergy
+- Implement `addMediacation()` - Add medication
+
+-----
