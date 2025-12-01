@@ -1,5 +1,5 @@
 const { validateToken, extractTokenFromHeader } = require('../utils/auth')
-const { AuthenticationError } = require('../utils/errors')
+
 
 /**
  * Authentication middleware - Validates JWT token with Auth service
@@ -33,4 +33,8 @@ const authenticate = async (req, res, next) => {
             message: error.message || 'Invalid or expired token'
         })
     }
+}
+
+module.exports = {
+    authenticate    
 }

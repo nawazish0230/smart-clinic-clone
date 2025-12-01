@@ -1,6 +1,6 @@
 const axios = require('axios');
 const config = require('../config');
-const {AuthenticationError} = require('../errors');
+const {AuthenticationError} = require('../utils/errors');
 
 /**
  * Validate JWT token with Auth Service
@@ -14,9 +14,9 @@ const validateToken = async (token) => {
             headers:{
                 Authorization: `Bearer ${token}`
             }
-        });
+        });        
         if(response.data.success){
-            return response.data.user;
+            return response.data.data;
         }
         throw new AuthenticationError('Invalid token');
     }catch(error){

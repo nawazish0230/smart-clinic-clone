@@ -1,6 +1,6 @@
-const {Patient, PATIENT_STATUS} = require('../models/Patient');
+const { Patient, PATIENT_STATUS } = require('../models/Patient');
 const logger = require('../utils/logger');
-const { ValidationError, ConflictError, NotFoundError} = require('../utils/errors');
+const { ValidationError, ConflictError, NotFoundError } = require('../utils/errors');
 
 /***
  * Create a new patient record.
@@ -8,27 +8,27 @@ const { ValidationError, ConflictError, NotFoundError} = require('../utils/error
  * @returns {Object} Created Patient object.
  */
 const createPatient = async (patientData) => {
-    const {userId, email} = patientData;
+    const { userId, email } = patientData;
     // Check if patient already exists with userId
-    if(userId){
+    if (userId) {
         const existingByUserId = await Patient.findByUserId(userId);
-        if(existingByUserId){
+        if (existingByUserId) {
             throw new ConflictError('Patient with this userId already exists');
         }
     }
 
     // Check if patient already exists with email
-    if(email){
+    if (email) {
         const existingByEmail = await Patient.findByEmail(email);
-        if(existingByEmail){
+        if (existingByEmail) {
             throw new ConflictError('Patient with this email already exists');
         }
     }
-    
+
     // Create new patient object with status ACTIVE
     const patient = new Patient({
         ...patientData,
-        email: email ? email.toLowerCase(): undefined,
+        email: email ? email.toLowerCase() : undefined,
         status: PATIENT_STATUS.ACTIVE,
     });
 
@@ -37,7 +37,7 @@ const createPatient = async (patientData) => {
     logger.info(`Patient created: ${patient._id} (${patient.email})`);
 
     // return created patient
-    return patient; 
+    return patient;
 }
 
 /**
@@ -47,7 +47,7 @@ const createPatient = async (patientData) => {
  */
 const getPatientById = async (patientId) => {
     const patient = await Patient.findById(patientId);
-    if(!patient){
+    if (!patient) {
         throw new NotFoundError('Patient not found');
     }
 
@@ -61,7 +61,7 @@ const getPatientById = async (patientId) => {
  */
 const getPatientByUserId = async (userId) => {
     const patient = await Patient.findByUserId(userId);
-    if(!patient){
+    if (!patient) {
         throw new NotFoundError('Patient not found');
     }
 
@@ -75,13 +75,62 @@ const getPatientByUserId = async (userId) => {
  */
 const getPatientByEmail = async (email) => {
     const patient = await Patient.findByEmail(email.toLowerCase());
-    if(!patient){
+    if (!patient) {
         throw new NotFoundError('Patient not found');
     }
 
     return patient;
 }
 
+
 /**
  * Get All Patients with Pagination and filters
+ * @param {Object} filters - filter options
+ * @param {Number} page - page number
+ * @param {Number} limit - number of records per page
+ * @returns {Object} paginated list of patients
  */
+const getAllPatients = async (filters = {}, page = 1, limit = 10) => {
+    const query = {};
+
+    // Apply filters
+    if (filters.status) {
+        query.status = filters.status;
+    }
+
+    if (filters.city) {
+        query.city = new RegExp(filters.city, 'i'); // case insensitive
+    }
+
+    if (filters.search) {
+        // use text search on read for better performance
+        //query.$text = { $search: filters.search };
+
+        // simple or condition on name and email fields
+        query.$or = [
+            { firstName: new RegExp(filters.search, 'i') },
+            { lastName: new RegExp(filters.search, 'i') },
+            { email: new RegExp(filters.search, 'i') },
+        ];
+    }
+
+    const skip = (page - 1) * limit;
+
+    return await Patient.find(query)
+        .sort({ registrationDate: -1 }) // most recent first
+        .skip(skip)
+        .limit(limit);
+}
+
+
+
+
+
+
+module.exports = {
+    createPatient,
+    getPatientById,
+    getPatientByUserId,
+    getPatientByEmail,
+    getAllPatients
+}

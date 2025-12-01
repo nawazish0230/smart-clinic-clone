@@ -3,13 +3,31 @@ const router = express.Router();
 const patientController = require('../controllers/patient.controller');
 const { authenticate } = require('../middlewares/auth.middleware');
 const { validateCreatePatient } = require('../middlewares/validator.middleware');
-const { requiredPateintOrClinicianRole } = require('../middlewares/rbac.middleware');
+const { requiredPateintOrClinicianRole, requiredClinician } = require('../middlewares/rbac.middleware');
 
 router
     .post('/',
+         authenticate,
+         requiredPateintOrClinicianRole,
+         validateCreatePatient,
+        patientController.createPatient);
+
+router
+    .get('/:id',
         authenticate,
         requiredPateintOrClinicianRole,
-        validateCreatePatient,
-        patientController.createPatient);
+        patientController.getPatientById);
+
+router
+    .get('/user/:userId',
+        authenticate,
+        requiredClinician,
+        patientController.getPatientByUserId);
+
+router
+    .get('/',
+        authenticate,
+        requiredClinician,
+        patientController.getAllPatients);
 
 module.exports = router;

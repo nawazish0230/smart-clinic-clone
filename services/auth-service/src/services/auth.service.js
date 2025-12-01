@@ -191,6 +191,7 @@ const logout = async (userId) => {
  * @returns {Object} - User profile
  */
 const getProfile = async (userId) => {
+  console.log(userId)
   const user = await User.findById(userId);
   if(!user){
     throw new NotFoundError('User not found');
