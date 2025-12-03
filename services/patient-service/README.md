@@ -158,3 +158,34 @@ Create `src/index.js`
 - Start server
 
 ----
+
+### Phase 5: CQRS Pattern Implementation
+
+#### Step 5.1: Create Read Model
+Create `src/models/PatientReadView.js`
+- Define read-optimized schema with denormalized fields
+- Add computer fields (fullName, age, city, state)
+- Create text search indexes
+- Create compound indexes for common queries
+- Add static method `updateFromPatient()` to sync from write model
+- Add static method `findById()` for optimized reads
+
+#### Step 5.2: Update Patient Service for CQRS
+Update `src/services/patient.service.js`:
+- After each write operation, call `PatientReadView.updateFormPatient()`
+- Modify `getAllPatients()` to use `PatientReadView` by default
+- Keep `Patient` model for write operations
+- Use read view for list/search queries
+
+**Example**
+```javascript
+// In createPatient()
+await patient.save();
+await PatientReadView.updateFromPatient(patient); // CQRS sync
+
+// In getAllPatient()
+const patients = await PatientReadView.find(filter)
+    .skip(skip)
+    .limit(limit);
+
+```

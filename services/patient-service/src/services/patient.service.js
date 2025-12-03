@@ -36,6 +36,9 @@ const createPatient = async (patientData) => {
     await patient.save();
     logger.info(`Patient created: ${patient._id} (${patient.email})`);
 
+    // Update read view (CQRS)
+    await Pa
+
     // return created patient
     return patient;
 }
