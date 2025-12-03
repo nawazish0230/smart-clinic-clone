@@ -1,6 +1,7 @@
 const { Patient, PATIENT_STATUS } = require('../models/Patient');
 const logger = require('../utils/logger');
 const { ValidationError, ConflictError, NotFoundError } = require('../utils/errors');
+const PatientReadView = require('../models/PatientReadView');
 
 /***
  * Create a new patient record.
@@ -37,7 +38,7 @@ const createPatient = async (patientData) => {
     logger.info(`Patient created: ${patient._id} (${patient.email})`);
 
     // Update read view (CQRS)
-    await Pa
+    await PatientReadView.updateFromPatient(patient);
 
     // return created patient
     return patient;
@@ -119,10 +120,13 @@ const getAllPatients = async (filters = {}, page = 1, limit = 10) => {
 
     const skip = (page - 1) * limit;
 
-    return await Patient.find(query)
+    // Use read-optimized view for fetching patients (CQRS)
+
+    return PatientReadView.find(query)
         .sort({ registrationDate: -1 }) // most recent first
         .skip(skip)
-        .limit(limit);
+        .limit(limit),
+        PatientReadView.countDocuments(query);
 }
 
 
