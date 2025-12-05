@@ -94,7 +94,7 @@ const getPatientByEmail = async (email) => {
  * @param {Number} limit - number of records per page
  * @returns {Object} paginated list of patients
  */
-const getAllPatients = async (filters = {}, page = 1, limit = 10) => {
+const getAllPatients = async (filters = {}, page = 1, limit = 10, useReadView = true) => {
     const query = {};
 
     // Apply filters
@@ -121,16 +121,193 @@ const getAllPatients = async (filters = {}, page = 1, limit = 10) => {
     const skip = (page - 1) * limit;
 
     // Use read-optimized view for fetching patients (CQRS)
+    if (useReadView) {
+        const [patients, total] = await Promise.all([
+            PatientReadView.find(query)
+                .sort({ registrationDate: -1 })
+                .skip(skip)
+                .limit(limit),
+            PatientReadView.countDocuments(query)
+        ])
 
-    return PatientReadView.find(query)
-        .sort({ registrationDate: -1 }) // most recent first
-        .skip(skip)
-        .limit(limit),
-        PatientReadView.countDocuments(query);
+        // fetch full patient data if needed (can be optimized further if required)
+        const patientIds = patients.map(p => p.patientId);
+        const fullPatients = await Patient.find({ _id: { $in: patientIds } });
+
+        return {
+            patients: fullPatients,
+            pagination: {
+                page,
+                limit,
+                total,
+                pages: Math.ceil(total / limit)
+            }
+        }
+    }
+
+    // fallback to write model if read view not avaliable
+    const [patients, total] = await Promise.all([
+        Patient.find(query)
+            .sort({ createdAt: -1 })
+            .skip(skip)
+            .limit(limit),
+        Patient.countDocuments(query)
+    ]);
+
+    return {
+        patients,
+        pagination: {
+            page,
+            limit,
+            total,
+            pages: Math.ceil(total / limit)
+        }
+    };
 }
 
+/**
+ * Update Patient Details
+ * @param {String} patientId - ID of the patient to update
+ * @param {Object} updateData - Data to update
+ * @returns {Object} Updated Patient object
+ */
+const updatePatient = async (patientId, updateDate) => {
+    const patient = await Patient.findById(patientId);
 
+    if (!patient) {
+        throw new NotFoundError('Patient not found');
+    }
 
+    // handle email update separately to check for conflicts
+    if (updateDate.email && updateDate.email !== patient.email) {
+        const existingByEmail = await Patient.findByEmail(updateDate.email);
+        if (existingByEmail && existingByEmail._id.toString() !== patientId) {
+            throw new ConflictError('Another patient with this email already exists');
+        }
+        updateDate.email = updateDate.email.toLowerCase();
+    }
+
+    Object.assign(patient, updateDate);
+    await patient.save();
+
+    logger.info(`Patient updated: ${patient._id} (${patient.email})`);
+
+    // Update read view (CQRS)
+    await PatientReadView.updateFromPatient(patient);
+
+    return patient;
+
+}
+
+/***
+ * Delete patient (sft delete by setting status to INACTIVE)
+ * @param {String} patientId - ID of the patient to delete
+ */
+const deletePatient = async (patientId) => {
+    const patient = await Patient.findById(patientId);
+
+    if (!patient) {
+        throw new NotFoundError('Patient not found');
+    }
+
+    patient.status = PATIENT_STATUS.INACTIVE;
+    await patient.save();
+
+    logger.info(`Patient deleted (inactivated): ${patient._id} (${patient.email})`);
+
+    // Update read view (CQRS)
+    await PatientReadView.updateFromPatient(patient);
+
+}
+
+/**
+ * Add midical history item
+ * @param {String} patientId - ID of the patient
+ * @param {Object} historyItem - Medical history item to add
+ * @return {Object} Updated Patient object
+ */
+const addMedicalHistory = async (patientId, historyItem) => {
+    const patient = await Patient.findById(patientId);
+
+    if (!patient) {
+        throw new NotFoundError('Patient not found');
+    }
+
+    await Patient.addMedicalHistory(historyItem);
+    await patient.save();
+    logger.info(`Medical history added for patient: ${patient._id})`);
+
+    // Update read view (CQRS)
+    await PatientReadView.updateFromPatient(patient);
+
+    return patient;
+}
+
+/**
+ * Add allergy item
+ * @param {String} patientId - ID of the patient
+ * @param {Object} allergyItem - Allergy item to add
+ * @return {Object} Updated Patient object
+ */
+const addAllergy = async (patientId, allergyItem) => {
+    const patient = await Patient.findById(patientId);
+
+    if (!patient) {
+        throw new NotFoundError('Patient not found');
+    }
+
+    await Patient.addAllergy(allergyItem);
+    await patient.save();
+    logger.info(`Allergy added for patient: ${patient._id})`);
+
+    // Update read view (CQRS)
+    await PatientReadView.updateFromPatient(patient);
+
+    return patient;
+}
+
+/**
+ * Add medication item
+ * @param {String} patientId - ID of the patient
+ * @param {Object} medicationItem - Medication item to add
+ * @return {Object} Updated Patient object
+ */
+const addMedication = async (patientId, medicationItem) => {
+    const patient = await Patient.findById(patientId);
+
+    if (!patient) {
+        throw new NotFoundError('Patient not found');
+    }
+
+    await Patient.addMedication(medicationItem);
+    await patient.save();
+    logger.info(`Medication added for patient: ${patient._id})`);
+
+    // Update read view (CQRS)
+    await PatientReadView.updateFromPatient(patient);
+    return patient;
+}
+
+/**
+ * Update last visit date
+ * @param {String} patientId - ID of the patient
+ * @returns {Object} Updated Patient object
+ */
+const updateLastVisit = async (patientId) => {
+    const patient = await Patient.findById(patientId);
+    if (!patient) {
+        throw new NotFoundError('Patient not found');
+    }
+
+    patient.lastVisitDate = new Date();
+    await patient.save();
+
+    logger.info(`Last visit date updated for patient: ${patient._id})`);
+
+     // Update read view (CQRS)
+    await PatientReadView.updateFromPatient(patient);
+    return patient;
+}
 
 
 
@@ -139,5 +316,11 @@ module.exports = {
     getPatientById,
     getPatientByUserId,
     getPatientByEmail,
-    getAllPatients
+    getAllPatients,
+    updatePatient,
+    deletePatient,
+    addMedicalHistory,
+    addAllergy,
+    addMedication,
+    updateLastVisit
 }

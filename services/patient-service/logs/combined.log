@@ -579,3 +579,719 @@
 2025-12-01 10:00:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
 2025-12-01 10:00:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
 2025-12-01 10:00:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:06:44 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:06:44 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:06:44 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:12:05 [patient-service] [32minfo[39m: [32mPatient created: 6932467d09dfdcec77e6138d (tony@gmail.com)[39m
+2025-12-05 08:14:41 [patient-service] [32minfo[39m: [32mPatient created: 6932471909dfdcec77e61391 (tony@gmail.com)[39m
+2025-12-05 08:17:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:17:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:17:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:17:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:17:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:17:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:17:50 [patient-service] [32minfo[39m: [32mPatient created: 693247d6b96201601065122e (tony@gmail.com)[39m
+2025-12-05 08:18:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:18:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:18:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:18:36 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:18:36 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:18:36 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:18:44 [patient-service] [32minfo[39m: [32mPatient created: 6932480c50a8ecd469de3c88 (tony@gmail.com)[39m
+2025-12-05 08:19:57 [patient-service] [32minfo[39m: [32mPatient created: 6932485550a8ecd469de3c8d (clark@gmail.com)[39m
+2025-12-05 08:21:06 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:21:06 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:21:06 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:10 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:10 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:10 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:31 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:31 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:31 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:51 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:51 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:22:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:22:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:22:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:01 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:01 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:01 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:42 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:42 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:42 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:23:59 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:23:59 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:23:59 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:06 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:06 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:06 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:28 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:28 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:28 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:24:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:24:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:24:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:25:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:25:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:25:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:25:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:25:43 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:25:43 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:25:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:25:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:25:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:25:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:25:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:25:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:25:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:25:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:25:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:25:59 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:25:59 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:25:59 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:26:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:26:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:26:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:26:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:26:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:26:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:31:10 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:31:10 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:31:10 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:32:20 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:32:20 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:32:20 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:32:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:32:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:32:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:32:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:32:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:32:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:33:01 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:33:01 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:33:01 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:33:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:33:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:33:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:33:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:33:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:33:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:33:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:33:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:33:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:33:30 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:33:30 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:33:30 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:34:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:34:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:34:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:34:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:34:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:34:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:34:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:34:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:34:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:34:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:34:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:34:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:34:31 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:34:31 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:34:31 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:34:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:34:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:34:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:01 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:01 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:01 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:10 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:10 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:10 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:30 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:30 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:30 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:44 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:44 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:44 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:35:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:35:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:35:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:36:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:36:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:36:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:36:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:36:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:36:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:37:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:37:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:37:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:37:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:37:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:37:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:37:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:37:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:37:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:37:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:37:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:37:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:37:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:37:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:37:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:37:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:37:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:37:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:39 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:39 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:39 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:41 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:41 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:41 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:38:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:38:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:38:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:39:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:39:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:39:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:39:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:39:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:39:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:39:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:39:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:39:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:39:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:39:13 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:39:13 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:39:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:39:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:39:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:42 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:42 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:42 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:48:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:48:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:48:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:28 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:28 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:28 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:49:59 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:49:59 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:49:59 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:23 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:23 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:23 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:42 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:42 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:42 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:50:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:50:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:50:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:20 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:20 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:20 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:28 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:28 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:28 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:51:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:51:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:51:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:00 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:00 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:00 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:13 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:13 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:43 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:43 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:52:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:52:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:52:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:30 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:30 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:30 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:36 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:36 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:36 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:41 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:41 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:41 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:53:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:53:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:53:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:00 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:00 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:00 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:44 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:44 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:44 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:54:59 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:54:59 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:54:59 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:55:00 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:55:00 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:55:00 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:55:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:55:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:55:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:55:06 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:55:06 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:55:06 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 08:55:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 08:55:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 08:55:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:00:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:00:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:00:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:02:10 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:02:10 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:02:10 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:02:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:02:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:02:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:13 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:13 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:49 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:49 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:49 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:03:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:03:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:03:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:04:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:04:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:04:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:04:39 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:04:39 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:04:39 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:04:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:04:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:04:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:05:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:05:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:05:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:05:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:05:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:05:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:05:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:05:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:05:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:06:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:06:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:06:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:06:30 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:06:30 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:06:30 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:06:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:06:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:06:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:06:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:06:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:06:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:06:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:06:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:06:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:07:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:07:51 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:07:51 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:07:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:07:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:07:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:08:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:08:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:08:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:08:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:08:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:08:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:08:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:08:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:08:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:08:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:08:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:08:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:08:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:08:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:08:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:08:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:08:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:08:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:09:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:09:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:09:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:09:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:09:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:09:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:09:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:09:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:09:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:09:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:09:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:09:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:09:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:09:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:09:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:09:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:09:51 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:09:51 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:10:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:10:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:10:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:10:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:10:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:10:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:10:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:10:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:10:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:10:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:10:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:10:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:10:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:10:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:10:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-05 09:10:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-05 09:10:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-05 09:10:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m

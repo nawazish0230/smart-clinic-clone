@@ -94,3 +94,9 @@
 2025-12-01 09:12:32 [auth-service] [32minfo[39m: [32mNew user registered: admin@gmail.com[39m
 2025-12-01 09:48:45 [auth-service] [32minfo[39m: [32mNew user registered: paul@gmail.com[39m
 2025-12-01 09:50:01 [auth-service] [32minfo[39m: [32mUser logged in: admin@gmail.com[39m
+2025-12-05 08:09:00 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-12-05 08:09:31 [auth-service] [32minfo[39m: [32mUser logged in: admin@gmail.com[39m
+2025-12-05 08:11:42 [auth-service] [32minfo[39m: [32mNew user registered: tony@gmail.com[39m
+2025-12-05 08:19:38 [auth-service] [32minfo[39m: [32mNew user registered: clark@gmail.com[39m
+2025-12-05 09:23:44 [auth-service] [32minfo[39m: [32mUser logged in: clark@gmail.com[39m
+2025-12-05 09:23:50 [auth-service] [32minfo[39m: [32mUser logged in: admin@gmail.com[39m

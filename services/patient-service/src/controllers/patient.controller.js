@@ -81,8 +81,8 @@ const getAllPatients = async (req, res, next) => {
 
         res.status(200).json({
             success: true,
-            data: result
-
+            data: result.patients,
+            pagination: result.pagination,
         });
     } catch (error) {
         next(error);
@@ -92,31 +92,110 @@ const getAllPatients = async (req, res, next) => {
 /**
  * Update Patient record
  */
+const updatePatient = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const updateData = req.body;
 
+        const updatedPatient = await patientService.updatePatient(id, updateData);
+
+        res.status(200).json({
+            success: true,
+            message: 'Patient record updated successfully',
+            data: updatedPatient
+        });
+    } catch (error) {
+        next(error);
+    }
+}
 
 /**
- * Delete Patient record
+ * Delete Patient record (soft delete)
  */
+const deletePatient = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        await patientService.deletePatient(id);
 
+        res.status(200).json({
+            success: true,
+            message: 'Patient record deleted successfully'
+        });
+    } catch (error) {
+        next(error);
+    }
+}
 
 /**
  * Add medical history item to Patient
  */
+const addMedicalHistory = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const historyItem = req.body;
+
+        const updatedPatient = await patientService.addMedicalHistory(id, historyItem);
+
+        res.status(200).json({
+            success: true,
+            message: 'Medical history item added successfully',
+            data: updatedPatient
+        });
+    } catch (error) {
+        next(error);
+    }
+}
 
 
 /**
  * Add allergy to Patient
  */
+const addAllergy = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const allergyItem = req.body;
+
+        const updatedPatient = await patientService.addAllergy(id, allergyItem);
+
+        res.status(200).json({
+            success: true,
+            message: 'Allergy item added successfully',
+            data: updatedPatient
+        });
+    } catch (error) {
+        next(error);
+    }
+}
 
 
 /**
  * Add medication to Patient
  */
+const addMedication = async (req, res, next) => {
+    try {
+        const { id } = req.params;
+        const medicationItem = req.body;
 
+        const updatedPatient = await patientService.addMedication(id, medicationItem);
+
+        res.status(200).json({
+            success: true,
+            message: 'Medication item added successfully',
+            data: updatedPatient
+        });
+    } catch (error) {
+        next(error);
+    }
+}
 
 module.exports = {
     createPatient,
     getPatientById,
     getPatientByUserId,
-    getAllPatients
+    getAllPatients,
+    updatePatient,
+    deletePatient,
+    addMedicalHistory,
+    addAllergy,
+    addMedication,
 }

@@ -8,7 +8,7 @@ const mongoose = require('mongoose');
  */
 const patientReadViewSchema = new mongoose.Schema({
     // Link to write model
-    patentId: {
+    patientId: {
         type: mongoose.Schema.Types.ObjectId,
         required: true,
         unique: true,
@@ -110,7 +110,7 @@ patientReadViewSchema.index({ searchText: 'text' })
  */
 patientReadViewSchema.statics.updateFromPatient = async function (patient) {
     const readViewData = {
-        patentId: patient._id,
+        patientId: patient._id,
         userId: patient.userId,
         fullName: `${patient.firstName} ${patient.lastName}`,
         firstName: patient.firstName,
