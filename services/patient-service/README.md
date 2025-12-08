@@ -189,3 +189,46 @@ const patients = await PatientReadView.find(filter)
     .limit(limit);
 
 ```
+
+### Phase 6: Event-Driven Architecture
+
+#### Step 6.1: Install Kafka Dependencies
+```bash
+npm install kafkajs
+```
+
+#### Step 6.2: Create Event Producer
+Create `src/utils/eventProducer.js`:
+- Initialize Kafka Prodicer
+- Define event types (PatientCreated, PatientUpdated, etc.)
+- Implement `publishEvent()` function
+- Add graceful degradation (service continue if kafka unavailable)
+- Add producer initialization and shutdown functions
+
+#### Step 6.3: Publish Events in Service Layer
+Upate `src/services/patient.service.js`:
+- After each write operation, publish corresponding evebt
+- Publich `PatientCreated` on patient creation
+- Publich `PatientUpdated` on patient update
+- Publich `PatientDeleted` on patient deletion
+- Publich `MedicalHistoryAdded` when adding medical history
+- Publich `AllergyAdded` when adding allergy
+- Publich `MedicationAdded` when adding medication
+
+
+**Example**
+```javascript
+await publishEvent(EVENT_TYPE.PATIENT_CREATED, {
+    patientId: patient._id,
+    userId: patient.userId,
+    email: patient.email,
+    firstName: patient.firstName,
+    lastName: patient.lastName
+})
+
+```
+
+#### Step 6.4: Initialize Kafka Producer
+Update `src/index.js`
+- Call 'initializeProducer()` on server start
+- Call `shutdownProducer()` on graceful shutdown
