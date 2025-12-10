@@ -1,5 +1,5 @@
 const { Kafka } = require('kafkajs');
-const logger = require('../logger');
+const logger = require('./logger');
 const config = require('../config');
 
 // kafka client configuration

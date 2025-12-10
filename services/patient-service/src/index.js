@@ -4,9 +4,13 @@ const helmet = require('helmet');
 require('express-async-errors');
 require('dotenv').config();
 
+// config and logger
 const config = require('./config');
 const connectDatabase = require('./config/database');
 const logger = require('./utils/logger');
+
+// kafka import
+const {initializeProducer, shutdownProducer} = require('./utils/eventProducer');
 
 // import routes
 const patientRoutes = require('./routes/patient.routes');
@@ -42,11 +46,15 @@ const startServer = async () => {
         // connect to database
         await connectDatabase();
 
+        // Initialize Kafka producer (Event-Driven)
+        await initializeProducer();
+
         // start listening
         const PORT = config.port;
         app.listen(PORT, () => {
             logger.info(`patient service running on port ${PORT}`);
             logger.info(`Environment: ${config.nodeEnv}`);
+            logger.info(`Kafka: ${process.env.KAFKA_BROKERS || 'localhost:9092'}`);
             
         })
     }catch(error){
@@ -55,6 +63,25 @@ const startServer = async () => {
     }
 }
 
-startServer();
+// Graceful shutdown
+process.on('SIGTERM', async () => {
+    logger.info('SIGTERM received, shutting down gracefully...');
+    await shutdownProducer();
+    process.exit(0);
+})
 
+// handle unhandled promise rejection
+process.on('unhandledRejection', (err) => {
+    logger.error(`Unhandled Rejection: ${err.message}`);
+    process.exit(1);
+})
+
+// Handle uncaught exceptions
+process.on('uncaughtException', (err) => {
+    logger.error(`Uncaught Exception: ${err.message}`);
+    process.exit(1);
+})
+
+// start the server
+startServer();
 module.exports = app;

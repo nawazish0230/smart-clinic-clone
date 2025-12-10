@@ -232,3 +232,44 @@ await publishEvent(EVENT_TYPE.PATIENT_CREATED, {
 Update `src/index.js`
 - Call 'initializeProducer()` on server start
 - Call `shutdownProducer()` on graceful shutdown
+
+----
+
+### Phase 7: GraphQL API Implementation
+
+#### Step 7.1: Install GraphQL Dependecies
+```bash
+npm install apollo-server-express graphql @graphql-tools/schema
+```
+
+#### Step 7.2: Create GraphQL Schema
+Create `src/graphql/schema.js`:
+- Define GraphQL types (Patient, Address, MedicalHistory, etc.)
+- Define Query type (patient, patentByUserId, me, patients)
+- Define Mutation type (createPatient, updatePatient, deletePatient, etc.)
+- Define Input types for mutations
+
+#### Step 7.3: Create GraphQL Context
+Create `src/graphql/context.js`
+- Extract JWT token from request headers
+- Validate token with Auth Service
+- Return user information for resolver
+- Handle authentication errors
+
+#### Step 7.4: Create GraphQL Resolvers
+Create `src/graphql/resolvers.js`
+- Implement Query resolver
+- Implement Mutation resolvers
+- Add RBAC check in resolver
+- Call service layer method
+- Handle errros appropriately
+
+#### Step 7.5: Integrate Apollo Server with Express
+Update `src/index.js`
+- Import GraphQL schema and resolver
+- Create Apollo Server instance
+- Configure context function
+- Apply Apollo middleware to expres app
+- Start Apollo server before express server
+
+---

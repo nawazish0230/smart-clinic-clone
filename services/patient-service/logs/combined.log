@@ -1303,3 +1303,1115 @@
 2025-12-05 09:56:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
 2025-12-05 09:56:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
 2025-12-05 09:56:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:14:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:14:14 [patient-service] [31merror[39m: [31mFailed to start server: logger.error is not a function[39m
+2025-12-10 08:14:18 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:14:18 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:14:18 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:14:18 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:14:18 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:14:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:14:21 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:14:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:14:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:14:21 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:18:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:18:46 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:18:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:18:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:18:46 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:17 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:17 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:19 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:19 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:22 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:22 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:25 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:25 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:30 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:30 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:30 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:30 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:32 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:32 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:35 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:35 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:38 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:38 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:40 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:40 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:43 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:43 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:43 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:43 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:46 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:46 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:19:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:19:57 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:19:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:19:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:19:57 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:20:01 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:20:01 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:20:01 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:20:01 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:20:01 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:20:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:20:04 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:20:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:20:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:20:04 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:20:23 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:20:23 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:20:23 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:20:23 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:20:23 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:20:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:20:56 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:20:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:20:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:20:56 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:01 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:01 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:01 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:01 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:01 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:04 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:04 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:07 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:07 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:40 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:40 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:41 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:41 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:41 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:41 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:41 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:52 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:52 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:54 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:54 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:21:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:21:55 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:21:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:21:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:21:55 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:09 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:09 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:10 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:10 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:10 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:10 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:10 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:29 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:29 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:34 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:34 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:47 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:47 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:53 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:53 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:54 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:54 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:22:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:22:56 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:22:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:22:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:22:56 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:23:00 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:23:00 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:23:00 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:23:00 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:23:00 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:23:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:23:02 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:23:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:23:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:23:02 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:23:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:23:15 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:23:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:23:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:23:15 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:23:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:23:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:23:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:23:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:23:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:31:11 [patient-service] [32minfo[39m: [32mPatient created: 6938e27725d4140cc3da1742 (superman@gmail.com)[39m
+2025-12-10 08:31:11 [patient-service] [32minfo[39m: [32mEvent published: PATIENT_CREATED for patientId: 6938e27725d4140cc3da1742[39m
+2025-12-10 08:35:24 [patient-service] [32minfo[39m: [32mPatient updated: 6938e27725d4140cc3da1742 (superman@gmail.com)[39m
+2025-12-10 08:35:24 [patient-service] [32minfo[39m: [32mEvent published: PATIENT_UPDATED for patientId: 6938e27725d4140cc3da1742[39m
+2025-12-10 08:42:36 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:42:36 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:42:36 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:42:36 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:42:36 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:42:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:42:38 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:42:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:42:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:42:38 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:45:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:45:37 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:45:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:45:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:45:37 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 08:45:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 08:45:51 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 08:45:51 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 08:45:51 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 08:45:51 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:34:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:34:07 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:34:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:34:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:34:07 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:34:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:34:50 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:34:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:34:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:34:50 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:09 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:09 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:11 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:11 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:17 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:17 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:18 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:18 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:18 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:18 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:18 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:21 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:21 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:24 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:24 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:31 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:31 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:31 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:31 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:31 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:33 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:33 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:35 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:35 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:37 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:37 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:35:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:35:51 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:35:51 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:35:51 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:35:51 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:28 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:28 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:28 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:28 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:28 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:31 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:31 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:31 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:31 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:31 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:38 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:38 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:40 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:40 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:44 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:44 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:44 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:44 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:48 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:48 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:50 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:50 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:38:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:38:53 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:38:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:38:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:38:53 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:03 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:03 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:12 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:12 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:15 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:15 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:19 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:19 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:29 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:29 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:34 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:34 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:34 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:34 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:34 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:37 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:37 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:40 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:40 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:44 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:44 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:44 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:44 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:44 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:46 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:46 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:48 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:48 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:51 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:51 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:51 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:51 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:39:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:39:56 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:39:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:39:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:39:56 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:00 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:00 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:00 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:00 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:00 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:02 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:02 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:05 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:05 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:09 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:09 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:18 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:18 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:18 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:18 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:18 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:21 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:21 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:22 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:22 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:32 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:32 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:33 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:33 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:35 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:35 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:39 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:39 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:39 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:39 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:39 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:41 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:41 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:41 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:41 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:41 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:44 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:44 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:44 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:44 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:44 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:48 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:48 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:52 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:52 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:57 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:57 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:40:59 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:40:59 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:40:59 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:40:59 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:40:59 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:07 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:07 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:07 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:07 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:07 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:13 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:13 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:13 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:13 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:15 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:15 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:18 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:18 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:18 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:18 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:18 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:22 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:22 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:25 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:25 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:28 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:28 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:28 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:28 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:28 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:47 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:47 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:48 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:48 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:50 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:50 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:54 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:54 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:54 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:54 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:54 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:57 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:57 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:57 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:57 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:57 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:41:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:41:58 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:41:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:41:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:41:58 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:01 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:01 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:01 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:01 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:01 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:06 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:06 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:06 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:06 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:06 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:08 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:08 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:12 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:12 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:14 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:14 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:18 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:18 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:18 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:18 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:18 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:22 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:22 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:22 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:22 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:22 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:24 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:24 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:26 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:26 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:29 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:29 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:32 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:32 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:33 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:33 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:37 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:37 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:47 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:47 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:56 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:56 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:42:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:42:58 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:42:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:42:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:42:58 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:02 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:02 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:05 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:05 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:09 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:09 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:09 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:09 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:09 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:10 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:10 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:10 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:10 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:10 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:19 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:19 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:20 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:20 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:20 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:20 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:20 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:25 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:25 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:29 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:29 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:32 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:32 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:38 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:38 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:38 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:38 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:38 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:42 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:42 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:42 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:42 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:42 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:45 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:45 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:45 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:45 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:45 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:43:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:43:55 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:43:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:43:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:43:55 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:06 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:06 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:06 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:06 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:06 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:12 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:12 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:19 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:19 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:21 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:21 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:21 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:21 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:21 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:49 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:49 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:49 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:49 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:49 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:52 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:52 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:55 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:55 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:44:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:44:58 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:44:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:44:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:44:58 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:02 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:02 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:03 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:03 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:08 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:08 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:13 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:13 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:13 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:13 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:14 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:14 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:14 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:14 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:14 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:17 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:17 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:17 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:17 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:17 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:20 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:20 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:20 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:20 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:20 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:25 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:25 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:39 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:39 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:39 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:39 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:39 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:47 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:47 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:51 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:52 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:52 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:55 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:55 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:45:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:45:58 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:45:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:45:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:45:58 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:02 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:02 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:02 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:02 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:02 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:03 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:03 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:05 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:05 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:05 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:05 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:05 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:08 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:08 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:12 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:12 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:12 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:12 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:12 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:15 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:15 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:15 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:15 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:15 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:19 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:19 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:24 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:24 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:25 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:25 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:35 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:35 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:43 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:43 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:43 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:43 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:50 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:50 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:50 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:50 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:50 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:53 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:53 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:53 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:53 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:53 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:58 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:58 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:46:59 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:46:59 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:46:59 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:46:59 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:46:59 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:03 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:03 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:03 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:03 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:03 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:06 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:06 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:06 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:06 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:06 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:08 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:08 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:08 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:08 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:08 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:11 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:11 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:11 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:11 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:11 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:24 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:24 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:24 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:24 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:24 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:26 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:26 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:26 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:26 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:26 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:30 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:30 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:30 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:30 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:30 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:35 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:35 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:40 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:40 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:40 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:40 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:40 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:42 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:42 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:42 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:42 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:42 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:46 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:46 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:46 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:46 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:46 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:48 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:48 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:55 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:55 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:55 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:55 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:55 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:56 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:56 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:56 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:56 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:56 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:47:58 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:47:58 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:47:58 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:47:58 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:47:58 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:16 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:16 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:16 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:16 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:16 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:23 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:23 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:23 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:23 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:23 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:25 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:25 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:25 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:25 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:25 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:29 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:29 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:29 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:29 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:29 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:31 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:31 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:31 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:31 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:31 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:32 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:32 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:32 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:32 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:32 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:42 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:42 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:42 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:42 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:42 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:43 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:43 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:43 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:43 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:48:48 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:48:48 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:48:48 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:48:48 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:48:48 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:00 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:00 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:00 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:00 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:00 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:04 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:04 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:04 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:04 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:04 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:13 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:13 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:13 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:13 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:13 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:19 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:19 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:19 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:19 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:19 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:27 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:27 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:27 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:27 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:27 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:33 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:33 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:33 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:33 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:33 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:35 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:35 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:35 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:35 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:35 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:37 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:37 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:37 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:37 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:37 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:41 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:41 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:41 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:41 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:41 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:43 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:43 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:43 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:43 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:43 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:47 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:47 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:47 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:47 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:47 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
+2025-12-10 09:49:52 [patient-service] [32minfo[39m: [32mConnected to MongoDB successfully to mongodb://localhost:27017/patient_db[39m
+2025-12-10 09:49:52 [patient-service] [32minfo[39m: [32mKafka Producer connected[39m
+2025-12-10 09:49:52 [patient-service] [32minfo[39m: [32mpatient service running on port 3002[39m
+2025-12-10 09:49:52 [patient-service] [32minfo[39m: [32mEnvironment: development[39m
+2025-12-10 09:49:52 [patient-service] [32minfo[39m: [32mKafka: localhost:9092[39m
