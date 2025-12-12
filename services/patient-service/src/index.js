@@ -4,6 +4,12 @@ const helmet = require('helmet');
 require('express-async-errors');
 require('dotenv').config();
 
+// graphql imports
+const {ApolloServer} = require('apollo-server-express');
+const typeDefs= require('./graphql/schema');
+const resolvers = require('./graphql/resolvers');
+const createContext = require('./graphql/context');
+
 // config and logger
 const config = require('./config');
 const connectDatabase = require('./config/database');
@@ -30,6 +36,17 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+
+// graphql apollo server setup
+const apploServer = new ApolloServer({
+    typeDefs,
+    resolvers,
+    context: createContext,
+    introspection: config.nodeEnv !== 'production',
+    playground: config.nodeEnv !== 'production',
+})
+
+
 // routes
 app.use('/health', healthRoutes);   
 app.use('/api/patients', patientRoutes);
@@ -48,6 +65,10 @@ const startServer = async () => {
 
         // Initialize Kafka producer (Event-Driven)
         await initializeProducer();
+
+        // strat apollo server
+        await apploServer.start();
+        apploServer.applyMiddleware({app, path: '/graphql'});
 
         // start listening
         const PORT = config.port;

@@ -166,4 +166,26 @@ type Query {
     ): PatientsResponse!
 }
 
+type Mutation {
+# Create a new Patient
+    createPatient(input: CreatePatientInput!): Patient!
+
+    # Update an existing Patient
+    updatePatient(id: ID!, input: UpdatePatientInput!): Patient!
+
+    # delete patient (soft delete)
+    deletePatient(id: ID!): Boolean!
+
+    # add medical history item
+    addMedicalHistory(id: ID!, history: MedicalHistoryInput!): Patient!
+
+    # add allergy
+    addAllergy(id: ID!, allergy: AllergyInput!): Patient!
+
+    # add medication
+    addMedication(id: ID!, medication: MedicationInput!): Patient!
+}
+
 `
+
+module.exports = typeDefs;

@@ -1,1 +1,6 @@
 2025-12-10 08:14:14 [patient-service] [31merror[39m: [31mFailed to start server: logger.error is not a function[39m
+2025-12-12 08:43:58 [patient-service] [31merror[39m: [31mFailed to connect Kafka Producer: Connection error: [39m
+2025-12-12 08:57:31 [patient-service] [31merror[39m: [31mFailed to connect Kafka Producer: Connection error: [39m
+2025-12-12 09:01:59 [patient-service] [31merror[39m: [31mFailed to connect Kafka Producer: Connection error: [39m
+2025-12-12 09:04:00 [patient-service] [31merror[39m: [31mFailed to connect Kafka Producer: Connection error: [39m
+2025-12-12 09:05:05 [patient-service] [31merror[39m: [31mFailed to connect Kafka Producer: Connection error: [39m
