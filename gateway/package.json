@@ -1,0 +1,40 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "Enterprise-level API Gateway for Smart Clinic microservices platform. \r Provides unified enrtry point with GraphQL schema stitching.. REST API proxying, authentication, rate limiting, circuit breaker, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/load-files": "^7.0.1",
+    "@graphql-tools/merge": "^9.1.6",
+    "@graphql-tools/schema": "^10.0.30",
+    "@graphql-tools/stitch": "^10.1.6",
+    "@graphql-tools/wrap": "^11.1.2",
+    "apollo-server-express": "^3.13.0",
+    "axios": "^1.13.2",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "cross-fetch": "^4.1.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
+    "express-async-errors": "^3.1.1",
+    "express-rate-limit": "^8.2.1",
+    "graphql": "^16.12.0",
+    "helmet": "^8.1.0",
+    "http-proxy-middleware": "^3.0.5",
+    "node-cache": "^5.1.2",
+    "opossum": "^9.0.0",
+    "uuid": "^13.0.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.11"
+  }
+}

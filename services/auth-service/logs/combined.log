@@ -105,3 +105,6 @@
 2025-12-10 08:28:55 [auth-service] [32minfo[39m: [32mUser logged in: admin@gmail.com[39m
 2025-12-10 08:30:05 [auth-service] [32minfo[39m: [32mNew user registered: superman@gmail.com[39m
 2025-12-10 09:56:44 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-12-12 08:44:09 [auth-service] [32minfo[39m: [32mauth-service is running on port 3001[39m
+2025-12-12 08:48:18 [auth-service] [32minfo[39m: [32mUser logged in: admin@gmail.com[39m
+2025-12-12 09:36:14 [auth-service] [32minfo[39m: [32mNew user registered: alice@gmail.com[39m
