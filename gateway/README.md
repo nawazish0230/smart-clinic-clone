@@ -89,5 +89,86 @@ mkrir -p logs
 
 ### Phase 2: Core Utilities
 
+#### Step 2.1: Create Logger Utitity
+Create 'src/utils/logger.js`:
+- Configure winston logger
+- Setup file transport (combined.log, error.logs)
+- Configure log format (JSON for production, simple for development)
+- Add execution and rejection handlers
+
+#### Step 2.2: Create Error Classes
+Create `src/utils/errors.js`:
+- `AppError` - Base error class
+- `ValidationError` - 400 error
+- `AuthenticationError` - 401 error
+- `AuthorizationError` - 403 error
+- `NotFoundError` - 404 error
+- `ServiceUnavaliableError` - 503 error
+- `TimeoutError` - 504 error
+- `CircuitBreakerOpenError` - Circuit breaker error
+
+#### Step 2.3: Create Correlation ID Utility
+Create `src/utils/corrcetionId.js`
+- `generateCorrelationId()` - generate UUID for request tracking
+- `getCorrelationId()` - Extract from headers or generte new
+- `setCorrectionId()` - Set in response headers
+
+#### Step 2.4: Create JWT Utility
+Create `src/utils/jwt.js`
+- `extractTokenFromHeader()` - Extract Bearer token
+- `verifyAccessToken()` - verify JWT token
+- `decodeToekn()` Decode token without verification
+
+-----
+
+### Phase 3: Middleware Implemenation
+
+#### Step 3.1: Create Correlation ID Middleware
+Create `src/middlewares/correlationId.middleware.js`
+- Extract or generate correlation Id
+- Attach to request object
+- Set in resopnse headers
+- Must be applied early in middleware chain
 
 
+#### Step 3.2: Create Logging Middleware
+Create `src/middlewares/logging.middleware.js`
+- Log incoming request with correlation Id
+- Log response status and duration
+- Include user information if authenticated
+- Use approprriate log level (info, warn, error)
+
+
+
+#### Step 3.3: Create Authentication Middleware
+Create `src/middlewares/auth.middleware.js`
+- `authenticate()` - Required authentication
+- Extract JWT token from Authorization header
+- Verify token info to request object
+- Attach user info to request object
+- Handle authentication error
+- `optionalAuthenticate()` - Optional authentication
+- try to authenticate but don;t fail of no token
+
+
+
+#### Step 3.4: Create Rate Limiting Middleware
+Create `src/middlewares/rateLimiter.middleware.js`
+- `generalRateLimiter` - 100 request per minutes
+- `authRatelimiter` - 5 request per 15 mints (stricter for auth)
+- `graphqlRateLimiter` - 200 request per 15 mints
+- Configure with express-rate-limit
+- Add custom handler for rate limit exceeded
+
+
+
+#### Step 3.5: Create Error Handling Middleware
+Create `src/middlewares/error.middleware.js`:
+- `notFound()` - 404 handler for unknown routes
+- `errorHandler()` - Global error handleer
+  - Log errors with correlation ID
+  - Handle operational error (AppError Instances)
+  - Handle GraphQL errors
+  - Don't leak error details in production
+
+----
