@@ -80,4 +80,14 @@ mkdir -p src/{config,middleware,routes,services,graphql,utils}
 mkrir -p logs
 ```
 
+#### Step 1.4: Create Configuration Files
+- Create `.env.example` file with all envirnment variables
+- Create `src/config/index.js` for centralized configuration management
+- Configure service URLs, timeouts, rate limits, circuit breaker settings
+
+----
+
+### Phase 2: Core Utilities
+
+
 
