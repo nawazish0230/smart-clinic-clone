@@ -172,3 +172,78 @@ Create `src/middlewares/error.middleware.js`:
   - Don't leak error details in production
 
 ----
+
+### Phase 4: Service Clients & Circuit Breaker
+
+#### Step 4.1: Create Circuit Breaker Service
+Create `src/services/circuitBreaker.js`
+- Use Opossum librarary
+- Configure timeout, error threshold, reset timeout
+- Add event handlers (open, close, halfOpen, failure, reject)
+- Log circuit breaker state changes
+- `createCircuitBreaker()` - Factory function
+- `executeWithCircuitBreaker()` - Execute function with circuit breaker
+
+#### Step 4.2: Create Service Client
+Create `src/services/serviceClient.js`
+- `ServiceClient` class for HTTP Communication
+- Use Axios for HTTP requests
+- Integrate circuit breaker
+- Add request/response interceptors
+- Forward correlation ID in headers
+- Forward user information
+- Implement timeout handling
+- Method: `get()`, `post()`, `put()`, `delete()`, `patch()`
+- `healthCheck()` - check service availablility()
+- `createServiceClients()` - Factory for all services
+
+#### Step 4.3: Create Cache Service
+Create `src/services/cache.js`
+- Use node-cache library
+- Configure TTL and check persiod
+- Method: `get()`, `set()`, `del()`, `flush()`, `getStats()`
+- Add event handlers for cache operations
+
+-----
+
+### Phase 5: GraphQL Implementation
+
+#### Step 5.1: Create Base GraphQL Schema
+Create `src/graphql/schema.js`:
+- Defibe base schema with empty Query, Mutation, Subscription
+- This will be merged with remote schemas
+
+#### Step 5.2: Create GrapghQL Context
+Create `src/graphql/context.js`:
+- Extract JWT token from request
+- Verify token and extract user info
+- Add correlation ID to context
+- Return context object with user and correlationId
+
+#### Step 5.3: Create GraphQL Resolvers
+Create `src/graphql/resolvers.js`:
+- Factory function that accepts service clients
+- Return vase resolver (can be extended)
+- Will be merged with remote resolvers
+
+#### Step 5.4: Create Schema Stitching
+Create `src/graphql/stichSchemas.js`:
+- `createExecute()` - Create executor for remote GraphQL service
+  - Forward authorization header
+  - Forward correlation ID
+  - Make HTTP request to remote GraphQL endpoints
+- `stichRemoteSchemas()` - Main stiching function
+  - Introspect remote schemas
+  - Wrap schemsa with executors
+  - Stich all schema togther
+  - Handle error gracefully (service continues if stiching fails)
+
+**Example:**
+```javascript
+// Stiching Patient Servuce GraphQL Schema
+const executor = createExecutor(patientServiceUrl, '/graphql');
+const schema = await introspectSchema(executor);
+const wrapperdSchema = wrapSchema({ schema, executor })
+```
+
+------
