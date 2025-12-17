@@ -213,7 +213,7 @@ Create `src/graphql/schema.js`:
 - Defibe base schema with empty Query, Mutation, Subscription
 - This will be merged with remote schemas
 
-#### Step 5.2: Create GrapghQL Context
+#### Step 5.2: Create GraphQL Context
 Create `src/graphql/context.js`:
 - Extract JWT token from request
 - Verify token and extract user info
@@ -247,3 +247,36 @@ const wrapperdSchema = wrapSchema({ schema, executor })
 ```
 
 ------
+
+### Phase 6: REST API Proxy
+
+#### Step 6.1: Create Proxy Configuration Factory
+Create proxy configuratuon in `src/routes/proxy.routes.js`:
+- `createProxyConfig()` - Factory for proxy middleware config
+- Configure target, changeOrigin, pathRewrite
+- Add `onProxyReq` - Forward correalation ID and user info
+- Add `onProxyRes` - Log proxy responses
+- Add `onError` - Handle proxy errors gracefully
+- Configure timeout
+
+
+#### Step 6.2: Create Proxy Routes
+Create `src/routes/proxy.routes.js`:
+- Auth Service proxy (`/api/auth/*`)
+    - Apply auth rate limiter
+    - No authentication required (for login/register)
+- Patient Service proxy (`/api/patients/*`)
+    - Apply authentication middleware
+    - Apply general rate limiter
+- Add proxies for all other services (appointment, doctors, etc)
+- Use conditional routing (only if service URL configured)
+
+**Example**
+```javascript
+route.use(
+  '/api/patients',
+  authenticate(),
+  generalRateLimiter,
+  createProxyMiddleware(createProxyConfig(patientServiceURL))
+)
+```
