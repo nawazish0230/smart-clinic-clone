@@ -280,3 +280,63 @@ route.use(
   createProxyMiddleware(createProxyConfig(patientServiceURL))
 )
 ```
+-----
+
+### Phase 7: Health Check Routes
+#### Step 7.1: Create Health Routes
+Create `src/routes/health.routes.js`:
+- `GET /health` - Basic health check
+    - Return service status, uptime, timestamp
+- `Get /ready` - Readiness check
+  - Check critical services (auth, patient)
+  - Return 200 if ready, 503 if not
+- `Get /status` - Details status
+  - Check all services
+  - Return health status for each service
+  - Include service URLs
+
+----
+
+### Phase 8: Main Server Setup
+
+#### Step 8.1: Create Express App
+Create `src/index.js`:
+- Initialize express app
+- Apply security middleware (helmet, cors)
+- Apply compression
+- Configure body parser (JSON, URL-encoded)
+- Apply correlation ID middleware 
+- Apply logging middleware
+- Apply rate limiting to API routes
+
+#### Step 8.2: Initialize Apollo Server
+In `src/index.js`
+- Try to stitch remote GraphQl schemas
+- Create Apollo server instance
+- Configure context function
+- Configure interspection and playground
+- Add GraphQL pluggins for logging
+- Configure error formatting
+- Apply Apollo middlware to express app
+
+
+#### Step 8.3: Register Routes
+- Register health check routes (no rate limiting)
+- Register proxy routes (with rate limiting)
+- Register 404 handler
+- register error handler 
+
+#### Step 8.4:Add Graceful Shutdown
+- Handle SIGTERM and SIGINT signals
+- Stop Apollo server gracefully
+- Close connections
+- Exit process cleanly
+
+
+#### Step 8.5: Add Error Handlers
+- Handle unhandled promise rejection
+- Handle uncaught exceptions
+- Log error appropriately
+- Exit process on critical errors
+
+---
