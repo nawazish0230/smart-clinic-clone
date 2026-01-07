@@ -1,0 +1,31 @@
+{
+  "name": "appointment-service",
+  "version": "1.0.0",
+  "description": "Appointment management microservice for smart clinic platform. This service handle appointment scheduling, booking, cancellation, and rescheduling. It implements the **Saga Pattern** for distributed transaction management, **CQRS** for optimized read/write operations, and **Event Sourcing** for complete audit trails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.31",
+    "apollo-server-express": "^3.13.0",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
+    "express-async-errors": "^3.1.1",
+    "express-validator": "^7.3.1",
+    "graphql": "^16.12.0",
+    "helmet": "^8.1.0",
+    "kafkajs": "^2.2.4",
+    "mongoose": "^9.1.2",
+    "opossum": "^9.0.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^13.0.0",
+    "winston": "^3.19.0"
+  }
+}
