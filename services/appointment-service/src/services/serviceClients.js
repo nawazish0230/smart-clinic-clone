@@ -140,17 +140,7 @@ const createServiceClients = () => {
       'doctor-service',
       config.doctorServiceUrl,
       config.doctorServiceTimeout
-    ),
-    billing: new ServiceClient(
-      'billing-service',
-      config.billingServiceUrl,
-      config.billingServiceTimeout
-    ),
-    notification: new ServiceClient(
-      'notification-service',
-      config.notificationServiceUrl,
-      5000
-    ),
+    )
   };
 };
 
