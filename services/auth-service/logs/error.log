@@ -1,0 +1,12 @@
+2025-11-17 08:22:14 [auth-service] [31merror[39m: [31mError: refereshToken is not defined[39m
+2025-11-17 08:25:16 [auth-service] [31merror[39m: [31mError: User with this email already exists[39m
+2025-11-17 08:26:57 [auth-service] [31merror[39m: [31mError: User with this email already exists[39m
+2025-11-17 08:28:06 [auth-service] [31merror[39m: [31mError: Invalid email/password[39m
+2025-11-17 09:09:52 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:11:35 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:11:51 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:12:47 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:13:20 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:22:02 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:22:29 [auth-service] [31merror[39m: [31mError: User not found[39m
+2025-11-17 09:22:47 [auth-service] [31merror[39m: [31mError: User not found[39m
